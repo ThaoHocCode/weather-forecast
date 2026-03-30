@@ -20,7 +20,6 @@ Repo bao gồm 5 bài tập:
 - Task1 2: Weather Forecast  => Branch : Weather_Data
 - Task 3: Weather Details  => Branch : Weather Object
 - Challenge1 và Challenge2 => Branch : Challeng
-- Bài 5: Weather Report  
 
 ---
 
